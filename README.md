@@ -1,2 +1,2 @@
 # HNL_Dimuon
-My work on HNL Dimuon Sensitivities
+In this repository, I have saved my work on the search for HNL-induced dimuon events in the IceCube observatory. Naming of directories and files is quite self-explanatory. The main simulation script is "simulation.py", the simulation files are stored in the "simulations" directory, and different plot examples are in the Jupyter Notebooks within the repository.
